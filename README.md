@@ -27,15 +27,8 @@
 
 ---
 
-## ❤️ 赞助商
 
 <table>
-<tr>
-<td width="180" align="center" valign="middle">
-  <a href="https://moyuu.cc/register?aff=z95r"><img src="https://github.com/user-attachments/assets/b5b14eaa-8f24-41fd-89aa-d681400a3c84" alt="摸鱼 AI" width="150"></a>
-</td>
-<td valign="middle"><b><a href="https://moyuu.cc/register?aff=z95r">摸鱼 AI</a></b>&nbsp;，让 AI API 接入更简单。明码标价，充值 1:1，支持 GPT、Claude、Gemini 等主流模型，重新定义「便宜 · 稳定 · 高速」</td>
-</tr>
 <tr>
 <td width="180" align="center" valign="middle">
   <a href="https://aivoza.com/"><img src="https://avatars.githubusercontent.com/u/82651354?v=4&size=64" alt="JuCodex" width="150"></a>
